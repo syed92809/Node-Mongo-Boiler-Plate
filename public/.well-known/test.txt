@@ -1,0 +1,17 @@
+# D2D Project
+
+This project is a backend service for D2D.
+
+## Directory Structure
+
+- `public/.well-known/`: Contains public files for the project.
+
+## How to Use
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Follow the setup instructions in the main README file.
+
+## License
+
+This project is licensed under the MIT License.

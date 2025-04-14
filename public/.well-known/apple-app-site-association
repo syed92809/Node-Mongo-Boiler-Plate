@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "WK8A2B5R44.com.readytodinedev",
+             "paths": [ "*" ] 
+           }
+       ]
+   }
+}
